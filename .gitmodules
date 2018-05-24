@@ -1,0 +1,3 @@
+[submodule "Kernel/riscv-linux"]
+	path = Kernel/riscv-linux
+	url = https://github.com/riscv/riscv-linux.git
