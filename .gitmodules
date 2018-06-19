@@ -1,3 +1,6 @@
 [submodule "Kernel/riscv-linux"]
 	path = Kernel/riscv-linux
 	url = https://github.com/riscv/riscv-linux.git
+[submodule "Bootloader/u-boot-marvell"]
+	path = Bootloader/u-boot-marvell
+	url = https://github.com/MarvellEmbeddedProcessors/u-boot-marvell.git
