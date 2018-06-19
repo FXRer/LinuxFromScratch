@@ -4,3 +4,6 @@
 [submodule "Bootloader/u-boot-marvell"]
 	path = Bootloader/u-boot-marvell
 	url = https://github.com/MarvellEmbeddedProcessors/u-boot-marvell.git
+[submodule "Bootloader/u-boot-bifferboard"]
+	path = Bootloader/u-boot-bifferboard
+	url = https://github.com/the12be/u-boot-bifferboard.git
