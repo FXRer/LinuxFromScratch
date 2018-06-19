@@ -7,3 +7,6 @@
 [submodule "Bootloader/u-boot-bifferboard"]
 	path = Bootloader/u-boot-bifferboard
 	url = https://github.com/the12be/u-boot-bifferboard.git
+[submodule "Kernel/linux-marvell"]
+	path = Kernel/linux-marvell
+	url = https://github.com/MarvellEmbeddedProcessors/linux-marvell.git
